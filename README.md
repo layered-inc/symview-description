@@ -1,26 +1,24 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## このシステムについて
 
+このシステムは株式会社メディアコンテンツファクトリーと、おおくぼ総合内科クリニック　大久保辰雄院長による共同開発サービスです。
 
-Hi there! Welcome to Cloud9 IDE!
+## システム概要
 
-To get you started, we included a small hello world application.
++ このシステムは医療機関において患者からの問診を聴取するためのシステムです。
++ 当システムは全てクラウドサービスです。システムを利用するためにインターネット環境が必要です。
++ 当システムでは、患者が問診を入力する機能、医療機関側で患者の問診内容を確認するための機能、その他設定機能よりなっています。
 
-1) Open the hello-world.html file
+## 問診結果による推論について
 
-2) Click on the Preview button to open a live preview pane
+当システムでは、患者の問診回答内容に応じて、自動的に質門が遷移し、問診結果に応じて可能性の高い疾患の推論を行っています。
+推論のアルゴリズムは下記より成り立っています。
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+#### 疾患マスタ
 
-Happy coding!
-The Cloud9 IDE team
+#### 症状マスタ
 
+#### 基礎点数
 
-## Support & Documentation
+#### 影響要素
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+#### 
