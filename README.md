@@ -61,7 +61,7 @@
     <td>+3</td>
     <td>10</td>
     <td>+45%</td>
-    <td>SpPinな質門</td>
+    <td>SpPinな質問</td>
   </tr>
   <tr>
     <td>+2</td>
@@ -91,7 +91,7 @@
     <td>-3</td>
     <td>0.1</td>
     <td>1/10</td>
-    <td>SnOutな質門</td>
+    <td>SnOutな質問</td>
   </tr>  
 </table>
 ※実際には簡易計算法ではなく、ベイズの定理に基づく正式な計算式で計算を行っています。
