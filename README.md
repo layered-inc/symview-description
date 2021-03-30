@@ -123,4 +123,4 @@
 * 総合小児医療　初期診療を磨くセンスとサイエンス　（田原卓浩 総編集）　中山書店
 
 ## 利用規約
-[本システムの利用規約（医療機関等向け）はこちら](https://media-cf.github.io/symview-descripiton/TOS)
+[本システムの利用規約（医療機関等向け）はこちら](https://media-cf.github.io/symview-descripiton/TOS.html)
