@@ -1,6 +1,6 @@
 ## このシステムについて
 
-このシステムは[株式会社メディアコンテンツファクトリー](http://www.media-cf.co.jp/)と、[おおくぼ総合内科クリニック](https://ohkubo-med.jp/)　院長 大久保辰雄医師による共同開発サービスです。
+このシステムは[株式会社レイヤード](https://layered.inc/)と、[おおくぼ総合内科クリニック](https://ohkubo-med.jp/)　院長 大久保辰雄医師による共同開発サービスです。
 
 ## システム概要
 
@@ -9,7 +9,7 @@
 + 当システムでは、患者が問診を入力する機能、医療機関側で患者の問診内容を確認するための機能、その他設定機能よりなっています。
 
 ## 利用規約
-[システムの利用規約（医療機関等向け）](https://media-cf.github.io/symview-description/TOS.html)
+[システムの利用規約（医療機関等向け）](https://layered-inc.github.io/symview-description/TOS.html)
 
 ## 問診結果による推論について
 
